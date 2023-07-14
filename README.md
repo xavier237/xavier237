@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @xavier237
+- 👋 Hi, I’m Tope Xavier
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning DevOps Engineering
 - 💞️ I’m looking to collaborate on an interesting stuff 😜
 - 📫 How to reach me "topexavier15@gmail.com"
 
